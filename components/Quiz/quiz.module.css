@@ -1,0 +1,8 @@
+.quiz {
+    background-color: red;
+    list-style: none;
+}
+
+.quizlist {
+    list-style: none !important;
+}

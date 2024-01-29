@@ -1,15 +1,7 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "index": "ሰላም 👋 ",
+  "get-started": "እዚህ ይጀምሩ?",
+  "introduction": "Introduction to Web Dev",
+  "frontend-vs-backend": "Frontend Vs. Backend",
+  "overview-html-css-javascript": "HTML, CSS and JavaScript"
 }
